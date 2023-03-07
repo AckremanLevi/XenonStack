@@ -1,8 +1,5 @@
 # XenonStack
-Welcome to the Readme of Abhishek Tiwari Xenonstack Technical task.. Here, Our task is to create a login logout flow which will be connected with Database on the following themes: a) Car Selling b) Bike Selling c) Mobile Selling d) Software Service e) Ecommerce f) College/uni App
-
-My theme is <>CAR SELLING</>!
-
+Welcome to the Readme of Abhishek Tiwari Xenonstack Technical task.. Here, Our task is to create a login logout flow which will be connected with Database on the following themes: a) Laptop Selling
 in this Readme you will get to know about the languages that i've used and how to run run this repository on desktop or any mobile device...
 
 LANGUAGES that i've used :-
